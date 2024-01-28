@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Comme la licence est conditionnée par le nombre de sessions simultanées, voici mon premier projet qui consiste à développer une fonctionnalité. Cette fonctionnalité prend en entrée les données d'audit d'un client et affiche une fenêtre montrant l'évolution du nombre de sessions simultanées en fonction du temps. <br><br>➡️Cette fonctionnalité permet au client de choisir la licence adaptée à ses besoins.</h3>
+<h3 align="left">Comme la licence est conditionnée par le nombre de sessions simultanées, voici mon premier projet qui consiste à développer une fonctionnalité. Cette fonctionnalité prend en entrée les données d'audit d'un client et affiche une fenêtre montrant l'évolution du nombre de sessions simultanées en fonction du temps. <br><br>➡Cette fonctionnalité permet au client de choisir la licence adaptée à ses besoins.</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Le deuxième consiste à développer une fonctionnalité qui génère un Rapport d'habilitation du client en effectuant des jointures entre les tables.<br><br>Rapport d'habilitation : Tableau montrant qui a accès à quoi.<br><br>➡️Cette fonctionnalité permet au client de renforcer la sécurité de son système d'information.</h3>
+<h3 align="left">Le deuxième consiste à développer une fonctionnalité qui génère un Rapport d'habilitation du client en effectuant des jointures entre les tables.<br><br>Rapport d'habilitation : Tableau montrant qui a accès à quoi.<br><br>➡Cette fonctionnalité permet au client de renforcer la sécurité de son système d'information.</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">Le dernier projet consistait à créer un modèle de machine learning capable de détecter les menaces de sécurité, en utilisant le Deep Learning, plus précisément l'Auto-encoder RNN LSTM et l'UBA (Analyse de comportement d'utilisateur).<br><br>➡️ Réalisation d'un prototype du modèle appliqué au jeu de données CERT avec une précision de plus de 80% dans la détection des comportements anormaux.</h3>
+<h3 align="left">Le dernier projet consistait à créer un modèle de machine learning capable de détecter les menaces de sécurité, en utilisant le Deep Learning, plus précisément l'Auto-encoder RNN LSTM et l'UBA (Analyse de comportement d'utilisateur).<br><br>➡ Réalisation d'un prototype du modèle appliqué au jeu de données CERT avec une précision de plus de 80% dans la détection des comportements anormaux.</h3>
 
 ###
 
