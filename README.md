@@ -66,6 +66,8 @@
 
 <p align="left">Code sur :projet_3</p>
 
+Et le rapport pour plus de détails : Rapport_rubycat_M2.pdf
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
