@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Code sur :</p>
+<p align="left">Code sur : projet_1 </p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Code sur :</p>
+<p align="left">Code sur : projet_2</p>
 
 ###
 
@@ -62,9 +62,9 @@
 <p align="left">
     <a href="https://insights.sei.cmu.edu/library/insider-threat-test-dataset/" target="_blank">Lien du CERT dataset :</a>
 </p>
-###
 
-<p align="left">Code sur :</p>
+
+<p align="left">Code sur :projet_3</p>
 
 ###
 
