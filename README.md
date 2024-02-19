@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  Dans cette page, je parle du stage et des projets que j'ai fait en tant que Data Scientist à Rubycat  :</h4>
+<h4 align="left">👩‍💻  Dans cette page, je parle du stage et des projets que j'ai fait en tant que Data Engineer à Rubycat  :</h4>
 
 ###
 
